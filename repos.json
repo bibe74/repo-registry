@@ -1,0 +1,42 @@
+{
+  "1729": [
+    "git@github.com:bibe74/1729.git"
+  ],
+  "Cesi Multimedia": [
+    "git@github.com:bibe74/Cesi.git",
+    "git@github.com:bibe74/Cesi.CesiDW.git"
+  ],
+  "CodicePlastico/internal": [
+    "git@github-cp:bibe74cp/adventofcode2025.git",
+    "git@github-cp:CodicePlastico/BibeCatalogue.git",
+    "git@github-cp:CodicePlastico/CPTaskAnalysis.git",
+    "git@github-cp:bibe74cp/deploymaintenancescripts.git",
+    "git@github-cp:emadb/js-lambda-calculus.git",
+    "git@github-cp:Moreno-Gentili/passkey-demo.git",
+    "git@github-cp:CodicePlastico/spike-tuboden-ai.git",
+    "git@github-cp:CodicePlastico/sqltools.git"
+  ],
+  "CodicePlastico/A2A": [
+    "git@gitlab-cp:a2asc/k8s/applicationserver/appserver.git"
+  ],
+  "CodicePlastico/Fraternità Sistemi": [
+    "git@ssh.dev.azure.com:v3/FraternitaSistemi/FS_DWH/FS_DWH",
+    "git@ssh.dev.azure.com:v3/FraternitaSistemi/FsSoa/FsSoa"
+  ],
+  "CodicePlastico/Lordgun": [
+    "git@github-cp:j-sport/JSport.DataWarehouse.git"
+  ],
+  "CodicePlastico/NSA": [
+    "git@github-cp:CodicePlastico/nsa-dwh.git"
+  ],
+  "Metra": [
+    "git@github-metra:Metragroup/BI.MetraAnalytics.git",
+    "git@github-metra:Metragroup/BI.METRADW2019.git",
+    "git@github-metra:Metragroup/BI.METRADW2026.git",
+    "git@github-metra:Metragroup/Reports.PBIReports.git",
+    "git@github-metra:Metragroup/Reports.RaccoltaDatiProduzione.git",
+    "git@github-metra:Metragroup/Scripts.PowerShell.git",
+    "git@github-metra:Metragroup/Scripts.Python.git",
+    "git@github-metra:Metragroup/Scripts.SQL.git"
+  ]
+}
