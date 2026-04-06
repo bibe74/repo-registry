@@ -13,6 +13,7 @@
     "git@github-cp:bibe74cp/deploymaintenancescripts.git",
     "git@github-cp:emadb/js-lambda-calculus.git",
     "git@github-cp:Moreno-Gentili/passkey-demo.git",
+    "git@github-cp:bibe74cp/rsa-mathematics.git",
     "git@github-cp:CodicePlastico/spike-tuboden-ai.git",
     "git@github-cp:CodicePlastico/sqltools.git"
   ],
@@ -29,6 +30,11 @@
   "CodicePlastico/NSA": [
     "git@github-cp:CodicePlastico/nsa-dwh.git"
   ],
+  "Development": [
+	"git@github.com:zhuzilin/pdf-with-its-own-md5.git",
+	"git@github.com:sqlmapproject/sqlmap.git",
+	"git@github.com:ErikEJ/SqlProjectPowerTools.git"
+  ],
   "Metra": [
     "git@github-metra:Metragroup/BI.MetraAnalytics.git",
     "git@github-metra:Metragroup/BI.METRADW2019.git",
@@ -38,5 +44,18 @@
     "git@github-metra:Metragroup/Scripts.PowerShell.git",
     "git@github-metra:Metragroup/Scripts.Python.git",
     "git@github-metra:Metragroup/Scripts.SQL.git"
+  ],
+  "Scripts.SQL": [
+	"git@github.com:Azure-Samples/azure-sql-db-vector-search.git",
+	"git@github.com:erikdarlingdata/DarlingData.git",
+	"git@github.com:nocentino/ollama-sql-faststart.git",
+	"git@github.com:microsoft/Reporting-Services.git",
+	"git@github.com:Straight-Path-Solutions/sp_CheckBackup.git",
+	"git@github.com:Straight-Path-Solutions/sp_CheckSecurity.git",
+	"git@github.com:Straight-Path-Solutions/sp_CheckTempdb.git",
+	"git@github.com:amachanic/sp_whoisactive.git",
+	"git@github.com:BrentOzarULTD/SQL-Server-First-Responder-Kit.git",
+	"git@github.com:olahallengren/sql-server-maintenance-solution.git",
+	"git@github.com:dbafromthecold/sql2025newfeatures.git"
   ]
 }
