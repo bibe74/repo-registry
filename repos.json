@@ -1,10 +1,17 @@
 {
   "1729": [
-    "git@github.com:bibe74/1729.git"
+    "git@github.com:bibe74/1729.git",
+    "git@github.com:bibe74/1729-databases-ssc.git",
+    "git@github.com:bibe74/1729-presentations.git",
+    "git@github.com:bibe74/1729-projects.git",
+    "git@github.com:bibe74/Scripts.PowerShell.git",
+    "git@github.com:bibe74/Scripts.Python.git",
+    "git@github.com:bibe74/Scripts.SQL.git"
   ],
   "Cesi Multimedia": [
     "git@github.com:bibe74/Cesi.git",
-    "git@github.com:bibe74/Cesi.CesiDW.git"
+    "git@github.com:bibe74/Cesi.CesiDW.git",
+    "git@github.com:microsoft/Reporting-Services.git"
   ],
   "CodicePlastico/internal": [
     "git@github-cp:bibe74cp/adventofcode2025.git",
@@ -28,12 +35,14 @@
     "git@github-cp:j-sport/JSport.DataWarehouse.git"
   ],
   "CodicePlastico/NSA": [
-    "git@github-cp:CodicePlastico/nsa-dwh.git"
+    "git@github-cp:CodicePlastico/nsa-dwh.git",
+    "git@github-cp:CodicePlastico/GesFin.Reporting.Scripts.git"
   ],
   "Development": [
-	"git@github.com:zhuzilin/pdf-with-its-own-md5.git",
-	"git@github.com:sqlmapproject/sqlmap.git",
-	"git@github.com:ErikEJ/SqlProjectPowerTools.git"
+    "git@github.com:zhuzilin/pdf-with-its-own-md5.git",
+    "git@github.com:sqlmapproject/sqlmap.git",
+    "git@github.com:ErikEJ/SqlProjectPowerTools.git",
+    "git@github.com:yeldanasadykova/sql-dvdrental.git"
   ],
   "Metra": [
     "git@github-metra:Metragroup/BI.MetraAnalytics.git",
@@ -46,16 +55,16 @@
     "git@github-metra:Metragroup/Scripts.SQL.git"
   ],
   "Scripts.SQL": [
-	"git@github.com:Azure-Samples/azure-sql-db-vector-search.git",
-	"git@github.com:erikdarlingdata/DarlingData.git",
-	"git@github.com:nocentino/ollama-sql-faststart.git",
-	"git@github.com:microsoft/Reporting-Services.git",
-	"git@github.com:Straight-Path-Solutions/sp_CheckBackup.git",
-	"git@github.com:Straight-Path-Solutions/sp_CheckSecurity.git",
-	"git@github.com:Straight-Path-Solutions/sp_CheckTempdb.git",
-	"git@github.com:amachanic/sp_whoisactive.git",
-	"git@github.com:BrentOzarULTD/SQL-Server-First-Responder-Kit.git",
-	"git@github.com:olahallengren/sql-server-maintenance-solution.git",
-	"git@github.com:dbafromthecold/sql2025newfeatures.git"
+    "git@github.com:Azure-Samples/azure-sql-db-vector-search.git",
+    "git@github.com:erikdarlingdata/DarlingData.git",
+    "git@github.com:nocentino/ollama-sql-faststart.git",
+    "git@github.com:microsoft/Reporting-Services.git",
+    "git@github.com:Straight-Path-Solutions/sp_CheckBackup.git",
+    "git@github.com:Straight-Path-Solutions/sp_CheckSecurity.git",
+    "git@github.com:Straight-Path-Solutions/sp_CheckTempdb.git",
+    "git@github.com:amachanic/sp_whoisactive.git",
+    "git@github.com:BrentOzarULTD/SQL-Server-First-Responder-Kit.git",
+    "git@github.com:olahallengren/sql-server-maintenance-solution.git",
+    "git@github.com:dbafromthecold/sql2025newfeatures.git"
   ]
 }
