@@ -4,6 +4,7 @@
     "git@github.com:bibe74/1729-databases-ssc.git",
     "git@github.com:bibe74/1729-presentations.git",
     "git@github.com:bibe74/1729-projects.git",
+    "git@github.com:bibe74/1729-website.git",
     "git@github.com:bibe74/Scripts.PowerShell.git",
     "git@github.com:bibe74/Scripts.Python.git",
     "git@github.com:bibe74/Scripts.SQL.git"
@@ -20,8 +21,9 @@
     "git@github-cp:bibe74cp/deploymaintenancescripts.git",
     "git@github-cp:emadb/js-lambda-calculus.git",
     "git@github-cp:Moreno-Gentili/passkey-demo.git",
+	"git@github-cp:jchen2186/rsa-implementation.git",
     "git@github-cp:bibe74cp/rsa-mathematics.git",
-    "git@github-cp:CodicePlastico/spike-tuboden-ai.git",
+    "git@github-cp:CodicePlastico/snowbears.git",
     "git@github-cp:CodicePlastico/sqltools.git"
   ],
   "CodicePlastico/A2A": [
@@ -38,11 +40,14 @@
     "git@github-cp:CodicePlastico/nsa-dwh.git",
     "git@github-cp:CodicePlastico/GesFin.Reporting.Scripts.git"
   ],
+  "CodicePlastico/Turboden": [
+    "git@github-cp:CodicePlastico/spike-tuboden-ai.git"
+  ],
   "Development": [
     "git@github.com:zhuzilin/pdf-with-its-own-md5.git",
+    "git@github.com:yeldanasadykova/sql-dvdrental.git",
     "git@github.com:sqlmapproject/sqlmap.git",
-    "git@github.com:ErikEJ/SqlProjectPowerTools.git",
-    "git@github.com:yeldanasadykova/sql-dvdrental.git"
+    "git@github.com:ErikEJ/SqlProjectPowerTools.git"
   ],
   "Metra": [
     "git@github-metra:Metragroup/BI.MetraAnalytics.git",
@@ -58,7 +63,8 @@
     "git@github.com:Azure-Samples/azure-sql-db-vector-search.git",
     "git@github.com:erikdarlingdata/DarlingData.git",
     "git@github.com:nocentino/ollama-sql-faststart.git",
-    "git@github.com:microsoft/Reporting-Services.git",
+	"git@github.com:barbosajoao/query-store-missing-indexes.git",
+	"git@github.com:microsoft/Reporting-Services.git",
     "git@github.com:Straight-Path-Solutions/sp_CheckBackup.git",
     "git@github.com:Straight-Path-Solutions/sp_CheckSecurity.git",
     "git@github.com:Straight-Path-Solutions/sp_CheckTempdb.git",
