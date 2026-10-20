@@ -1,76 +1,103 @@
 {
   "1729": [
-    "git@github.com:bibe74/1729.git",
     "git@github.com:bibe74/1729-databases-ssc.git",
     "git@github.com:bibe74/1729-presentations.git",
     "git@github.com:bibe74/1729-projects.git",
     "git@github.com:bibe74/1729-website.git",
+    "git@github.com:bibe74/1729.git",
     "git@github.com:bibe74/Scripts.PowerShell.git",
     "git@github.com:bibe74/Scripts.Python.git",
-    "git@github.com:bibe74/Scripts.SQL.git"
+    "git@github.com:bibe74/Scripts.SQL.git",
+    "git@github.com:bibe74/work-laptop.git"
   ],
   "Cesi Multimedia": [
-    "git@github.com:bibe74/Cesi.git",
     "git@github.com:bibe74/Cesi.CesiDW.git",
+    "git@github.com:bibe74/Cesi.git",
     "git@github.com:microsoft/Reporting-Services.git"
-  ],
-  "CodicePlastico/internal": [
-    "git@github-cp:bibe74cp/adventofcode2025.git",
-    "git@github-cp:CodicePlastico/BibeCatalogue.git",
-    "git@github-cp:CodicePlastico/CPTaskAnalysis.git",
-    "git@github-cp:bibe74cp/deploymaintenancescripts.git",
-    "git@github-cp:emadb/js-lambda-calculus.git",
-    "git@github-cp:Moreno-Gentili/passkey-demo.git",
-	"git@github-cp:jchen2186/rsa-implementation.git",
-    "git@github-cp:bibe74cp/rsa-mathematics.git",
-    "git@github-cp:CodicePlastico/snowbears.git",
-    "git@github-cp:CodicePlastico/sqltools.git"
   ],
   "CodicePlastico/A2A": [
     "git@gitlab-cp:a2asc/k8s/applicationserver/appserver.git"
+  ],
+  "CodicePlastico/Berg": [
+    "git@github-cp:Berg-Phi/berg-dw.git",
+    "git@github-cp:bibe74cp/sync-azure-databases.git"
   ],
   "CodicePlastico/Fraternità Sistemi": [
     "git@ssh.dev.azure.com:v3/FraternitaSistemi/FS_DWH/FS_DWH",
     "git@ssh.dev.azure.com:v3/FraternitaSistemi/FsSoa/FsSoa"
   ],
+  "CodicePlastico/internal": [
+    "git@github-cp:bibe74cp/adventofcode2025.git",
+    "git@github-cp:bibe74cp/career-plan.git",
+    "git@github-cp:bibe74cp/deploymaintenancescripts.git",
+    "git@github-cp:bibe74cp/dw-builder.git",
+    "git@github-cp:bibe74cp/dw-concepts.git",
+    "git@github-cp:bibe74cp/rsa-mathematics.git",
+    "git@github-cp:bibe74cp/sqlserver-crash-course.git",
+    "git@github-cp:bibe74cp/sync-azure-databases.git",
+    "git@github-cp:CodicePlastico/BibeCatalogue.git",
+    "git@github-cp:CodicePlastico/CPTaskAnalysis.git",
+    "git@github-cp:CodicePlastico/data-warehouse-development.git",
+    "git@github-cp:CodicePlastico/snowbears.git",
+    "git@github-cp:CodicePlastico/sqlserver-alwayson.git",
+    "git@github-cp:CodicePlastico/sqltools.git",
+    "git@github-cp:CodicePlastico/ssis-sync-tables.git",
+    "git@github-cp:emadb/js-lambda-calculus.git",
+    "git@github-cp:jchen2186/rsa-implementation.git",
+    "git@github-cp:macchezz/GeneralImageClassifier.git",
+    "git@github-cp:melkio/github-dev-days-2026.git",
+    "git@github-cp:Moreno-Gentili/passkey-demo.git",
+    "git@github-cp:falboscp/genart.git",
+    "git@github-cp:darwinsw/devops/clusters.git",
+    "git@github-cp:pietromcp/docker-kubernetes-course",
+    "git@github-cp:pietromcp/fun-with-flags-k8s-edition"
+  ],
   "CodicePlastico/Lordgun": [
     "git@github-cp:j-sport/JSport.DataWarehouse.git"
   ],
   "CodicePlastico/NSA": [
-    "git@github-cp:CodicePlastico/nsa-dwh.git",
-    "git@github-cp:CodicePlastico/GesFin.Reporting.Scripts.git"
+    "git@github-cp:CodicePlastico/GesFin.Reporting.Scripts.git",
+    "git@github-cp:CodicePlastico/nsa-dwh.git"
   ],
   "CodicePlastico/Turboden": [
     "git@github-cp:CodicePlastico/spike-tuboden-ai.git"
   ],
   "Development": [
-    "git@github.com:zhuzilin/pdf-with-its-own-md5.git",
-    "git@github.com:yeldanasadykova/sql-dvdrental.git",
+    "git@github.com:Azure/data-api-builder.git",
+    "git@github.com:ErikEJ/SqlProjectPowerTools.git",
+    "git@github.com:fedecino/arkanoid-vibe-coding.git",
+    "git@github.com:github/awesome-copilot.git",
+    "git@github.com:polarity-dev/mcp-server-workshop.git",
     "git@github.com:sqlmapproject/sqlmap.git",
-    "git@github.com:ErikEJ/SqlProjectPowerTools.git"
+    "git@github.com:yeldanasadykova/sql-dvdrental.git",
+    "git@github.com:zhuzilin/pdf-with-its-own-md5.git",
+    "git@github.com:bibe74cp/excel-101.git"
   ],
   "Metra": [
     "git@github-metra:Metragroup/BI.MetraAnalytics.git",
     "git@github-metra:Metragroup/BI.METRADW2019.git",
     "git@github-metra:Metragroup/BI.METRADW2026.git",
+    "git@github-metra:Metragroup/DB.AXSQL_AX2009.git",
     "git@github-metra:Metragroup/Reports.PBIReports.git",
     "git@github-metra:Metragroup/Reports.RaccoltaDatiProduzione.git",
     "git@github-metra:Metragroup/Scripts.PowerShell.git",
     "git@github-metra:Metragroup/Scripts.Python.git",
-    "git@github-metra:Metragroup/Scripts.SQL.git"
+    "git@github-metra:Metragroup/Scripts.SQL.git",
+    "git@github-metra:MetraReplySupport/BI.Fabric.git"
+  ],
+  "PalioAnticheContrade": [
+    "git@github.com:bibe74/PalioAnticheContrade.git"
   ],
   "Scripts.SQL": [
-    "git@github.com:Azure-Samples/azure-sql-db-vector-search.git",
-    "git@github.com:erikdarlingdata/DarlingData.git",
-    "git@github.com:nocentino/ollama-sql-faststart.git",
-	"git@github.com:barbosajoao/query-store-missing-indexes.git",
-	"git@github.com:microsoft/Reporting-Services.git",
-    "git@github.com:Straight-Path-Solutions/sp_CheckBackup.git",
-    "git@github.com:Straight-Path-Solutions/sp_CheckSecurity.git",
-    "git@github.com:Straight-Path-Solutions/sp_CheckTempdb.git",
     "git@github.com:amachanic/sp_whoisactive.git",
+    "git@github.com:Azure-Samples/azure-sql-db-vector-search.git",
+    "git@github.com:barbosajoao/query-store-missing-indexes.git",
     "git@github.com:BrentOzarULTD/SQL-Server-First-Responder-Kit.git",
+    "git@github.com:dbafromthecold/sql2025newfeatures.git",
+    "git@github.com:erikdarlingdata/DarlingData.git",
+    "git@github.com:microsoft/Reporting-Services.git",
+    "git@github.com:nocentino/ollama-sql-faststart.git",
     "git@github.com:olahallengren/sql-server-maintenance-solution.git",
-    "git@github.com:dbafromthecold/sql2025newfeatures.git"
+    "git@github.com:Straight-Path-Solutions/sp_Check.git"
   ]
 }
