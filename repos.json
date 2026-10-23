@@ -48,9 +48,9 @@
     "git@github-cp:melkio/github-dev-days-2026.git",
     "git@github-cp:Moreno-Gentili/passkey-demo.git",
     "git@github-cp:falboscp/genart.git",
-    "git@github-cp:darwinsw/devops/clusters.git",
-    "git@github-cp:pietromcp/docker-kubernetes-course",
-    "git@github-cp:pietromcp/fun-with-flags-k8s-edition"
+    "https://gitlab.com/darwinsw/devops/clusters.git",
+    "https://gitlab.com/pietromcp/docker-kubernetes-course.git",
+    "https://gitlab.com/pietromcp/fun-with-flags-k8s-edition.git"
   ],
   "CodicePlastico/Lordgun": [
     "git@github-cp:j-sport/JSport.DataWarehouse.git"
@@ -70,8 +70,7 @@
     "git@github.com:polarity-dev/mcp-server-workshop.git",
     "git@github.com:sqlmapproject/sqlmap.git",
     "git@github.com:yeldanasadykova/sql-dvdrental.git",
-    "git@github.com:zhuzilin/pdf-with-its-own-md5.git",
-    "git@github.com:bibe74cp/excel-101.git"
+    "git@github.com:zhuzilin/pdf-with-its-own-md5.git"
   ],
   "Metra": [
     "git@github-metra:Metragroup/BI.MetraAnalytics.git",

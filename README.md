@@ -85,6 +85,46 @@ Existing destination folders are left untouched and skipped, so the script
 does not overwrite existing work. If a clone fails, it continues with the
 remaining repositories and reports the failed URLs at the end.
 
+### `Pull-All.ps1`
+
+Uses the same `repos.json` group paths, repository folder names, and destination
+prompt as `Clone-All.ps1`. It runs `git pull` only for repositories that already
+exist under the selected base directory. Missing repository folders are
+ignored, and existing folders without a `.git` marker are skipped with a
+warning. It does not create folders or clone repositories. Pull failures are
+reported after the remaining repositories have been processed.
+
+Run it from the project directory and accept the default destination:
+
+```powershell
+.\Pull-All.ps1
+```
+
+To pull from another location, enter the path when prompted:
+
+```text
+Base directory for cloned repositories [C:\Work.Git\new]: D:\Source
+```
+
+### `List-Changes.ps1`
+
+Recursively scans for Git repositories under the parent directory of this
+project. It reports uncommitted changes (including staged, unstaged, and
+untracked files), commits on the checked-out `HEAD` that are absent from all
+local remote-tracking branches, and repositories whose current branch is not
+`main` or `master`. Detached HEADs are also included in the branch list.
+
+Run from the project directory:
+
+```powershell
+.\List-Changes.ps1
+```
+
+The scan is local-only; it does not fetch from remotes. The unpushed-commit
+report therefore reflects the remote-tracking references currently available
+in each clone. If a repository has no remote-tracking branches, its unpushed
+status is reported as unavailable rather than guessed.
+
 ## Requirements
 
 - Windows PowerShell or PowerShell 7
@@ -98,3 +138,5 @@ remaining repositories and reports the failed URLs at the end.
 2. Review `repos_new.json`; if it is the list you want to use, copy its contents
    to `repos.json`.
 3. Run `Clone-All.ps1` and choose the destination directory.
+4. Later, run `Pull-All.ps1` with that same destination to update the clones.
+5. Run `List-Changes.ps1` to review local repository changes and branches.
